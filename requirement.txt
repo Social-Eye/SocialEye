@@ -1,0 +1,14 @@
+requests
+isodata
+datetime
+speech
+you-get
+openai-whisper
+setuptools-rust
+SpeechRecognition
+google-cloud-speech
+SpeechRecognition
+pydub
+pocketsphinx
+PREDICT
+emoji
